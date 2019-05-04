@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?><package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>斗破苍穹后传之神境</dc:title>
+<dc:creator>番茄伴土豆</dc:creator>
+<dc:description>斗破苍穹后传之神境</dc:description>
+<dc:language>zh-cn</dc:language>
+<dc:date></dc:date>
+<dc:contributor>爱下电子书 [http://www.ixdzs.com]</dc:contributor>
+<dc:publisher>ixdzs.com</dc:publisher>
+<dc:subject>爱下电子书</dc:subject>
+<dc:identifier id="bookid">ixdzs:23776</dc:identifier>
+</metadata>
+<manifest>	<item href="chapter_3260847.xhtml" id="id3260847" media-type="application/xhtml+xml"/><item href="chapter_3260848.xhtml" id="id3260848" media-type="application/xhtml+xml"/><item href="chapter_3260849.xhtml" id="id3260849" media-type="application/xhtml+xml"/><item href="chapter_3260850.xhtml" id="id3260850" media-type="application/xhtml+xml"/><item href="chapter_3260851.xhtml" id="id3260851" media-type="application/xhtml+xml"/><item href="chapter_3260852.xhtml" id="id3260852" media-type="application/xhtml+xml"/><item href="chapter_3260853.xhtml" id="id3260853" media-type="application/xhtml+xml"/><item href="chapter_3260854.xhtml" id="id3260854" media-type="application/xhtml+xml"/><item href="chapter_3260855.xhtml" id="id3260855" media-type="application/xhtml+xml"/><item href="chapter_3260856.xhtml" id="id3260856" media-type="application/xhtml+xml"/><item href="chapter_3260857.xhtml" id="id3260857" media-type="application/xhtml+xml"/><item href="chapter_3260858.xhtml" id="id3260858" media-type="application/xhtml+xml"/><item href="catalog.xhtml" id="catalog" media-type="application/xhtml+xml"/>
+<item href="stylesheet.css" id="css" media-type="text/css"/>
+<item href="page.xhtml" id="page" media-type="application/xhtml+xml"/>
+<item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="page"/>
+<itemref idref="catalog"/>		<itemref idref="id3260847"/><itemref idref="id3260848"/><itemref idref="id3260849"/><itemref idref="id3260850"/><itemref idref="id3260851"/><itemref idref="id3260852"/><itemref idref="id3260853"/><itemref idref="id3260854"/><itemref idref="id3260855"/><itemref idref="id3260856"/><itemref idref="id3260857"/><itemref idref="id3260858"/><itemref idref="page"/></spine><guide><reference href="catalog.xhtml" type="toc" title="目录"/></guide></package>

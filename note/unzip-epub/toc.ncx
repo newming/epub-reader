@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta content="ixdzs:23776" name="dtb:uid"/>
+<meta content="2" name="dtb:depth"/>
+<meta content="爱下电子书 [http://www.ixdzs.com]" name="dtb:generator"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>斗破苍穹后传之神境</text>
+</docTitle>
+<docAuthor>
+<text>番茄伴土豆</text>
+</docAuthor>
+<navMap><navPoint id="chapter_3260847" playOrder="1"><navLabel><text>此书授权已解决！请放心收藏！</text></navLabel><content src="chapter_3260847.xhtml"/></navPoint>
+<navPoint id="chapter_3260848" playOrder="2"><navLabel><text>第一章 神境</text></navLabel><content src="chapter_3260848.xhtml"/></navPoint>
+<navPoint id="chapter_3260849" playOrder="3"><navLabel><text>第二章 误会</text></navLabel><content src="chapter_3260849.xhtml"/></navPoint>
+<navPoint id="chapter_3260850" playOrder="4"><navLabel><text>第三章 再燃斗帝之体！</text></navLabel><content src="chapter_3260850.xhtml"/></navPoint>
+<navPoint id="chapter_3260851" playOrder="5"><navLabel><text>第四章 献祭</text></navLabel><content src="chapter_3260851.xhtml"/></navPoint>
+<navPoint id="chapter_3260852" playOrder="6"><navLabel><text>第五章 新的境界</text></navLabel><content src="chapter_3260852.xhtml"/></navPoint>
+<navPoint id="chapter_3260853" playOrder="7"><navLabel><text>第六章 陀舍古帝</text></navLabel><content src="chapter_3260853.xhtml"/></navPoint>
+<navPoint id="chapter_3260854" playOrder="8"><navLabel><text>第七章 三道轮回</text></navLabel><content src="chapter_3260854.xhtml"/></navPoint>
+<navPoint id="chapter_3260855" playOrder="9"><navLabel><text>第八章 十万大山</text></navLabel><content src="chapter_3260855.xhtml"/></navPoint>
+<navPoint id="chapter_3260856" playOrder="10"><navLabel><text>第九章 黑山（求收藏推荐）</text></navLabel><content src="chapter_3260856.xhtml"/></navPoint>
+<navPoint id="chapter_3260857" playOrder="11"><navLabel><text>第十章 万载老林</text></navLabel><content src="chapter_3260857.xhtml"/></navPoint>
+<navPoint id="chapter_3260858" playOrder="12"><navLabel><text>第十一章 生命女神</text></navLabel><content src="chapter_3260858.xhtml"/></navPoint>
+</navMap></ncx>
